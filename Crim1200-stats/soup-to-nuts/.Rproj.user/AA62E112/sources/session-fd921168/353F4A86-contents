@@ -1,0 +1,4 @@
+read.csv("fatal-police.csv")
+shootings <- read.csv("fatal-police.csv")
+view(shootings)
+View(shootings)
